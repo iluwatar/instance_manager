@@ -4,7 +4,7 @@ click==6.6
 docutils==0.12
 futures==3.0.5
 jmespath==0.9.0
-pyaml==15.8.2
+pyaml==20.4.0
 python-dateutil==2.5.3
 python-lambda==0.4.0
 PyYAML==3.11
