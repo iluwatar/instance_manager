@@ -3,7 +3,7 @@ botocore==1.4.32
 click==6.6
 docutils==0.12
 futures==3.0.5
-jmespath==0.9.0
+jmespath==0.10.0
 pyaml==15.8.2
 python-dateutil==2.5.3
 python-lambda==0.4.0
