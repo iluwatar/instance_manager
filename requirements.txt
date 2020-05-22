@@ -8,4 +8,4 @@ pyaml==15.8.2
 python-dateutil==2.5.3
 python-lambda==0.4.0
 PyYAML==3.11
-six==1.10.0
+six==1.15.0
